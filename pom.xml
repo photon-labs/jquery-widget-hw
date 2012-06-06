@@ -5,7 +5,7 @@
     <artifactId>PHR_jquery-widget-hw</artifactId>
     <packaging>war</packaging>
     <name>PHR_jquery-widget-hw</name>
-    <version>1.0.0</version>
+    <version>1.1.17001-SNAPSHOT</version>
     
      <scm>
         <connection>scm:git:git@github.com:phresco/jquery-widget-hw.git</connection>
